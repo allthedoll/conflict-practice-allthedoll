@@ -4,6 +4,8 @@
 
 ---
 
+:unicorn:
+
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
 This repository also has some baked in merge conflicts for practice. 
